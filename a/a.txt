@@ -1,10 +1,3 @@
 a
-<<<<<<< HEAD
-<<<<<<< HEAD
-aa
-=======
 
-nuevo cambio "a" desde github
->>>>>>> c9cc8bb13652dbaf56ab3ff1478142dc4a939b4c
-=======
->>>>>>> 715f44ec617dedd51dbdfeec8f6dbdb56e0a6b11
+Editado desde github a
